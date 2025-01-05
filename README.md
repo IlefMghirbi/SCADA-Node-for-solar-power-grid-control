@@ -1,4 +1,4 @@
-# SCADA-Node-for-solar-power-grid-control-inside-lab
+# SCADA Node for a solar power grid control inside the LCSC SCL lab
 
 I created this experimental SCADA node for the lab’s miniature power grid system. It aims to monitor conditions like voltage and ambient temperature of the power system and exert control over circuit breakers when needed via an ethernet network. To do so, I used a raspberry pi4, a Data Acquisition Unit (DAQ) from LabJack Corporation that surprised me with the detailed documentation that answered all of my questions as well as the power grid circuitry.
 
